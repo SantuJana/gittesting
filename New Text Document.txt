@@ -1,4 +1,4 @@
-some text adde 
+some text add
 some line added
 nothing
 
